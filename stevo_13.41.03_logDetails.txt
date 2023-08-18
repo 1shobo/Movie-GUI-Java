@@ -1,0 +1,9 @@
+Aug 18, 2023 1:41:03 P.M. logging.AssignmentLogger register
+INFO: 
+Register logging.RegisterComputer
+Ran from: C:\Users\stevo\eclipse-workspace\AdvProg Final Assignment
+Ran by: stevo
+OS Details:Windows 10 amd64
+Java details:13 C:\Program Files\Java\jdk-13
+
+
